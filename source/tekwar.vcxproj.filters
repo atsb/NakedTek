@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{42a336a5-e8e8-4ad0-b015-8f8977591735}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{02f33996-87b4-413d-9fd9-90393187d788}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{5a46dd98-f20a-49bb-9aa5-57eedf85f1d7}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TEKCDR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKGAME.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKGUN.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKCHNG.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKLDSV.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKMAP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKMSC.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKPREP.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKSMK.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKSND.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKSPR.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKSTAT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKTAG.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKTXT.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TEKVER.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NAMES.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SMACK.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TEKWAR.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VFX1.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
